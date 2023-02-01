@@ -11,7 +11,7 @@ spring:
   application:
     name: mldncloud-config-client
 server:
-  port: 8101
+  port: 8103
   eureka:
   client:
     service-url:
@@ -25,7 +25,7 @@ spring:
   application:
     name: mldncloud-config-client
 server:
-  port: 8102
+  port: 8104
 eureka:
   client:
     service-url:
